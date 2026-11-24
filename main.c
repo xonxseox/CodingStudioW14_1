@@ -46,6 +46,7 @@ int main(){
       break;
     }
   }
+  printf("Edited by 반종석\n");
 }
 
 int loadMembers(struct Record* p[]){
